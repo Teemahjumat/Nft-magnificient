@@ -81,6 +81,7 @@
     rgba(235, 233, 233, 0.3) 80%
   );
   border-radius: 30px;
+  border: 1px solid white;
 }
 
 .love {
@@ -210,7 +211,7 @@ main {
   width: 135px !important;
   height: 40px;
   margin-right: -10px;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .devs {
@@ -459,7 +460,7 @@ input {
     width: 100%;
     background-color: #242133;
     background-attachment: fixed;
-    height: 2315vh !important;
+    height: 2325vh !important;
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -486,6 +487,18 @@ input {
     margin-top: 30px;
     margin-bottom: 40px;
     margin-left: 55px !important;
+  }
+
+  .love {
+    height: 40px;
+    width: 100px !important;
+    margin-top: 60px;
+    margin-left: 40px;
+    font-size: medium;
+  }
+  .love > img{
+    width: 20px !important;
+    height: 20px !important;
   }
 
   .nft > h1 {
@@ -676,14 +689,14 @@ input {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 150vh !important;
+    height: 165vh !important;
   }
 
   .copy {
     background-color: rgb(46, 50, 92);
     color: white;
     text-align: center;
-    height: 45px;
+    height: 65px;
     border-radius: 20px;
     font-size: 16px;
     margin-top: 30px !important;
@@ -921,7 +934,7 @@ input {
     background-color: rgb(46, 50, 92);
     color: white;
     text-align: center;
-    height: 45px;
+    height: 65px;
     border-radius: 20px;
     font-size: 16px;
     margin-top: 30px !important;
